@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "mongodb": "^3.1.0-beta4"
+    "mongodb": "^3.1.13"
   },
   "devDependencies": {},
   "scripts": {
